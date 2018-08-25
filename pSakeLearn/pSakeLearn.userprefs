@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{222A1189-6B18-43F5-A5C7-12F056DA5AA3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="psake/Program.cs">
+    <Files>
+      <File FileName="psake/Program.cs" Line="9" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
